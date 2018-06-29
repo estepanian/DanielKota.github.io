@@ -6,7 +6,7 @@
  * License: Creative Commons Attribution 3.0 License
  * Website: http://themes.3rdwavemedia.com/
 */
-/* styles-3.css */
+/* styles.css */
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
@@ -293,7 +293,7 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
-/*
+
 @media print {
 
     img {display:none;}
@@ -311,4 +311,4 @@ p {
     position: relative;
     top: 1px;
   }
-}*/
+}
